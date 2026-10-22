@@ -1,6 +1,6 @@
 # Please Don't Wake the Giant
 
-3D browser prototype. Works on GitHub Pages without a build step or installation.
+3D woodland campsite prototype. The giant sleeps on a sleeping bag, reacts slowly to pokes, and carries a flea-sized village directly on his coat. Works on GitHub Pages without a build step or installation.
 
 ## Upload to GitHub
 
@@ -23,8 +23,9 @@ If Pages is already configured for that branch and folder, uploading the files u
 - Every **2 pokes gives 1 thread, 1 twig, and 1 seed**. The first poke advances the counter; the second awards the supplies. Every **3 pokes adds 1% wake-up**, and every **6 pokes gives 1 coin**. The button and tapping the giant follow the same rules. Dragging and pinching never count as pokes.
 - Tap a building or its card to build or upgrade it.
 - Thread mills and twig workshops create noise. Hush the village to reduce noise while production slows.
-- At maximum noise the giant stirs, dropping supplies. Homes are preserved.
+- At maximum noise, wake-ups alternate: first he rolls onto another side and the village restarts with its original cottage and starter supplies; next he sits up, opens his eyes, rubs them, and lies down again without resetting the village. Coins and purchased clothing survive both events. Building and gathering pause during the wake animation.
 - Progress saves in this browser on this device. Up to four hours of offline production are awarded on return. Private browsing, clearing browser data, or switching website addresses may remove or separate saves.
 - Sound is optional and starts off.
 
 This is a browser prototype, not an Android app package. The giant, workers, clothing, and village are real 3D meshes rendered with bundled Three.js (MIT license included). A browser with WebGL / graphics acceleration is required. No external 3D assets or CDN requests are needed while playing. Google Fonts are optional; built-in fonts are used when unavailable.
+
