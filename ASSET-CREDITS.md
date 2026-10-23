@@ -1,8 +1,8 @@
-# Assets
+# Assets and art
 
-- Traveler meshes: created for this project using Blender 4.5.9 LTS. Blender is free and open source: https://www.blender.org/about/. Character source is preserved in the project deliverables.
-- Forest Floor diffuse and normal textures: eye-candy.xyz / Poly Haven, https://polyhaven.com/a/forest_floor. CC0: https://polyhaven.com/license. Resized/recompressed for game distribution.
-- Three.js r160.1: MIT license, see THREE-LICENSE.txt.
-- Other scenery, clothing, villagers and animation curves: project-authored geometry and code. No Mixamo or Quaternius models or animations are included.
-
-- Worker meshes: project-authored Blender voxel sculpts, with continuous torso, facial anatomy, hands, and fitted limbs. Character skin, fiber, hair, and leather surface maps are locally authored procedural textures.
+- Giant and worker models: original Blender sculptures authored for this game, with smooth skin weights, contact shading, and separate clothing/hair/face parts. Editable sources are included with the project deliverables.
+- Art direction: the user-approved concept preview, interpreted as real-time stylized 3D models. The concept image is a reference, not an in-game background.
+- Buildings, gardens, workshop tools, clothing accessories, foliage, sleeping bag, terrain, animation curves and postprocessing: project-authored geometry and code.
+- Three.js r160.1: MIT license; see THREE-LICENSE.txt.
+- Legacy optional forest textures still included in this folder: Forest Floor by eye-candy.xyz / Poly Haven, https://polyhaven.com/a/forest_floor, CC0 https://polyhaven.com/license. The current stylized ground is authored procedurally and does not load these files.
+- No Last Stronghold game assets, characters, models, textures, or animations are included.

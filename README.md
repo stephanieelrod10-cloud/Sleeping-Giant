@@ -41,3 +41,6 @@ Tap **Village upgrades** at the bottom to open or close the upgrade drawer. It s
 ## Surface contact and visible upgrades
 The settlement follows the posed coat surface in all four sleeping positions. Body contact checks keep the giant above the sleeping bag, which now has a tapered quilted shell, piping, hood, and folded lining. Eyes and eyelids follow the face surface. Building upgrades add rooms, planting beds, spools, and workshop equipment in stages. Resource feedback is compact and stays at the left edge.
 
+
+## Approved stylized 3D art update
+The giant now has a broad sculpted head, shaped hair and beard, open jacket, undershirt, larger boots and hands, and revised cartoon proportions. Villagers have new faces, hair, workwear and bodies. Timber cottages, pitched shingle roofs, crop beds, workshops and upgrades use the same visual style. Terrain, vegetation, the bag and lighting have been revised to match. Original job routes, poke rewards, shop prices, save format and wake-up rules are preserved. Screenspace contact shading scales from giant view to crew view, with a fallback for older graphics hardware. Static village pieces are batched to reduce drawing overhead.
