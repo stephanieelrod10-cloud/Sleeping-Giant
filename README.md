@@ -29,3 +29,7 @@ If Pages is already configured for that branch and folder, uploading the files u
 
 This is a browser prototype, not an Android app package. The giant, workers, clothing, and village are real 3D meshes rendered with bundled Three.js (MIT license included). A browser with WebGL / graphics acceleration is required. No external 3D assets or CDN requests are needed while playing. Google Fonts are optional; built-in fonts are used when unavailable.
 
+
+## Storybook style update
+Sculpted cottages, rounded details, softer tree canopies, and articulated villagers replace the earlier chunky shapes. Villagers follow work routes, swing arms and legs while walking, water built crop beds, chop at the woodcutting spot, carry supplies, and go inside their cottage. Existing idle production rates are unchanged. The campsite includes an animated campfire with smoke and a supply area with food, water, spare shoes, and a bowl.
+
