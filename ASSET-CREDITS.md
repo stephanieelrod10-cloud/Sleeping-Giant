@@ -4,3 +4,5 @@
 - Forest Floor diffuse and normal textures: eye-candy.xyz / Poly Haven, https://polyhaven.com/a/forest_floor. CC0: https://polyhaven.com/license. Resized/recompressed for game distribution.
 - Three.js r160.1: MIT license, see THREE-LICENSE.txt.
 - Other scenery, clothing, villagers and animation curves: project-authored geometry and code. No Mixamo or Quaternius models or animations are included.
+
+- Worker meshes: project-authored Blender voxel sculpts, with continuous torso, facial anatomy, hands, and fitted limbs. Character skin, fiber, hair, and leather surface maps are locally authored procedural textures.

@@ -6,7 +6,7 @@
 
 1. Open the GitHub repository you want to use for this new game.
 2. Choose **Add file → Upload files**.
-3. Upload all extracted game files together into the repository's main folder, including `traveler-mesh.json`, both `forest-floor` images, and the licenses/credits. Upload the extracted files, not the ZIP itself. Replace the existing files when updating. All files sit together; no special folders are needed.
+3. Upload all extracted game files together into the repository's main folder, including `traveler-mesh.json`, `worker-mesh.json`, `drawer.js`, both `forest-floor` images, and the licenses/credits. Upload the extracted files, not the ZIP itself. Replace the existing files when updating. All files sit together; no special folders are needed.
 4. Commit the upload.
 5. In **Settings → Pages**, choose **Deploy from a branch**, select your branch (usually `main`), select **/ (root)**, and save.
 6. Open the website address GitHub shows once deployment finishes.
@@ -34,3 +34,6 @@ This is a browser prototype, not an Android app package. The giant, workers, clo
 Sculpted cottages, rounded details, softer tree canopies, and articulated villagers replace the earlier chunky shapes. Villagers follow work routes, swing arms and legs while walking, water built crop beds, chop at the woodcutting spot, carry supplies, and go inside their cottage. Existing idle production rates are unchanged. The campsite includes an animated campfire with smoke and a supply area with food, water, spare shoes, and a bowl.
 
 
+
+## Collapsible upgrades and character detail
+Tap **Village upgrades** at the bottom to open or close the upgrade drawer. It starts closed and works in every camera view. Poke and hush/resume controls stay above the drawer. On smaller screens, scroll inside the drawer to see every upgrade. The giant and villagers have skin, woven fabric, hair, and worn leather surface maps; the villagers use smooth Blender sculpts with articulated work animations.
