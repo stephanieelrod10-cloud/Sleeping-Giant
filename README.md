@@ -6,7 +6,7 @@
 
 1. Open the GitHub repository you want to use for this new game.
 2. Choose **Add file → Upload files**.
-3. Upload `index.html`, `style.css`, `game.js`, `wardrobe.js`, and `world3d.js` together into the repository's main folder. Include `THREE-LICENSE.txt` too. Upload the extracted files, not the ZIP itself. Replace the existing files when updating. All files sit together; no special folders are needed.
+3. Upload all extracted game files together into the repository's main folder, including `traveler-mesh.json`, both `forest-floor` images, and the licenses/credits. Upload the extracted files, not the ZIP itself. Replace the existing files when updating. All files sit together; no special folders are needed.
 4. Commit the upload.
 5. In **Settings → Pages**, choose **Deploy from a branch**, select your branch (usually `main`), select **/ (root)**, and save.
 6. Open the website address GitHub shows once deployment finishes.
@@ -27,9 +27,10 @@ If Pages is already configured for that branch and folder, uploading the files u
 - Progress saves in this browser on this device. Up to four hours of offline production are awarded on return. Private browsing, clearing browser data, or switching website addresses may remove or separate saves.
 - Sound is optional and starts off.
 
-This is a browser prototype, not an Android app package. The giant, workers, clothing, and village are real 3D meshes rendered with bundled Three.js (MIT license included). A browser with WebGL / graphics acceleration is required. No external 3D assets or CDN requests are needed while playing. Google Fonts are optional; built-in fonts are used when unavailable.
+This is a browser prototype, not an Android app package. The giant, workers, clothing, and village are real 3D meshes rendered with bundled Three.js (MIT license included). A browser with WebGL / graphics acceleration is required. The Blender-authored model and CC0 forest textures are bundled locally; no asset CDN requests are needed while playing. Google Fonts are optional; built-in fonts are used when unavailable.
 
 
 ## Storybook style update
 Sculpted cottages, rounded details, softer tree canopies, and articulated villagers replace the earlier chunky shapes. Villagers follow work routes, swing arms and legs while walking, water built crop beds, chop at the woodcutting spot, carry supplies, and go inside their cottage. Existing idle production rates are unchanged. The campsite includes an animated campfire with smoke and a supply area with food, water, spare shoes, and a bowl.
+
 
