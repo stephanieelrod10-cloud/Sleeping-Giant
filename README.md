@@ -37,3 +37,7 @@ Sculpted cottages, rounded details, softer tree canopies, and articulated villag
 
 ## Collapsible upgrades and character detail
 Tap **Village upgrades** at the bottom to open or close the upgrade drawer. It starts closed and works in every camera view. Poke and hush/resume controls stay above the drawer. On smaller screens, scroll inside the drawer to see every upgrade. The giant and villagers have skin, woven fabric, hair, and worn leather surface maps; the villagers use smooth Blender sculpts with articulated work animations.
+
+## Surface contact and visible upgrades
+The settlement follows the posed coat surface in all four sleeping positions. Body contact checks keep the giant above the sleeping bag, which now has a tapered quilted shell, piping, hood, and folded lining. Eyes and eyelids follow the face surface. Building upgrades add rooms, planting beds, spools, and workshop equipment in stages. Resource feedback is compact and stays at the left edge.
+

@@ -21,3 +21,7 @@ html{height:100%;background:#58786f}body{min-height:100vh;background-attachment:
 @media(max-width:760px){.bottom,.overview .bottom{padding:0 14px 8px;max-height:35dvh}.bottom .buildings{display:grid;grid-template-columns:1fr 1fr;gap:7px;overflow:visible}.bottom .card{min-width:0;padding:8px;gap:7px}.bottom .card .icon{width:25px;min-width:25px;height:34px;font-size:20px}.bottom .card small{display:none}.bottom .card b{font-size:10px}.bottom .card em{font-size:9px}.bottomTitle{gap:8px}.bottomTitle small{letter-spacing:1px}.controls button{padding-left:10px;padding-right:10px}.viewActions button{padding:7px 10px}.footer>span:first-child{font-size:7px}}
 
 #upgradeToggle{position:sticky;top:0;background:#f5efdf;z-index:2}
+
+/* Compact resource feedback stays at the left, above the action rows. */
+#toast,.overview #toast{left:12px;right:auto;width:max-content;max-width:min(180px,45vw);padding:7px 10px;border-radius:9px;font-size:10px;line-height:1.4;transform:translateY(4px);text-align:left}
+#toast.show,.overview #toast.show{transform:translateY(0)}
